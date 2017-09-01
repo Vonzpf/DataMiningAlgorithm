@@ -6,8 +6,8 @@
 
 ## 目录结构
 
-| # | PATH1 | PATH2 | Algorithm |
-|---|-------|-------|-----------|
-1|DataMiningAlgorithm|DataMining_Apriori|Apriori-关联规则挖掘算法|
+| # | Directory | Package | Algorithm |
+|---|-----------|---------|-----------|
+1|AssociationAnalysis|[DataMining_Apriori](https://github.com/Vonzpf/DataMiningAlgorithm/tree/master/AssociationAnalysis/DataMining_Apriori)|Apriori-关联规则挖掘算法|
 
 
